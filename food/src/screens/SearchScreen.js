@@ -14,6 +14,8 @@ const SearchScreen = () => {
       return result.price === price;
     });
   };
+
+  
   return (
     <>
       <SearchBar
